@@ -1,0 +1,457 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 55.335rem;
+}.frame-1-Lnh {
+  box-sizing: border-box;
+  padding: 2rem 2rem 2rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.frame-1-Lnh .property-1default-TMX {
+  width: 100%;
+  height: 36.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-ubgr-CK7 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-ubgr-CK7 .auto-group-ywkh-kLd {
+  margin-bottom: 10rem;
+  width: 10.8rem;
+  height: 14.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-ubgr-CK7 .auto-group-ywkh-kLd .kotlin-removebg-preview-2-HbT {
+  width: 10.6rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-ubgr-CK7 .auto-group-ywkh-kLd .kotlin-Qg5 {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 5.3rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.265;
+  color: #1f1d1d;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-ubgr-CK7 .png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-removebg-preview-2-gdb {
+  margin-left: 1.9rem;
+  width: 11rem;
+  height: 12rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-hdnd-9n5 {
+  box-sizing: border-box;
+  padding: 2.26rem 0rem 0.9rem 8.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-hdnd-9n5 .js-javascript-round-logo-icon-png-11662226392lsrrajcm0y-removebg-preview-2-59w {
+  margin: 0rem 4rem 1.26rem 0rem;
+  width: 10rem;
+  height: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-hdnd-9n5 .auto-group-rtqd-xzR {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-hdnd-9n5 .auto-group-rtqd-xzR .html5logoandwordmark-2-K4H {
+  margin: 0rem 0rem 9.013rem 0.951rem;
+  width: 15.0836rem;
+  height: 14.3268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1default-TMX .auto-group-hdnd-9n5 .auto-group-rtqd-xzR .c-sharp-c-logo-02f17714ba-seeklogo-2-DQZ {
+  width: 12.3rem;
+  height: 10.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j {
+  width: 100%;
+  height: 36.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-ge2r-eVs {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-ge2r-eVs .auto-group-cb2m-QV3 {
+  margin-bottom: 10rem;
+  width: 10.8rem;
+  height: 14.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-ge2r-eVs .auto-group-cb2m-QV3 .kotlin-removebg-preview-2-wUy {
+  width: 10.6rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-ge2r-eVs .auto-group-cb2m-QV3 .kotlin-H33 {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 5.3rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.265;
+  color: #1f1d1d;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-ge2r-eVs .png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-removebg-preview-2-aH3 {
+  margin-left: 1.9rem;
+  width: 11rem;
+  height: 12rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-kgjh-fJV {
+  box-sizing: border-box;
+  padding: 0rem 2.135rem 0rem 7.107rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-kgjh-fJV .html5logoandwordmark-2-bhw {
+  margin: 2.6rem 2.138rem 0rem 0rem;
+  width: 10.5553rem;
+  height: 10rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-kgjh-fJV .auto-group-87wb-K89 {
+  margin-bottom: 0.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-kgjh-fJV .auto-group-87wb-K89 .js-javascript-round-logo-icon-png-11662226392lsrrajcm0y-removebg-preview-2-fC1 {
+  margin-bottom: 9.1rem;
+  width: 16.5rem;
+  height: 16.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant2-81j .auto-group-kgjh-fJV .auto-group-87wb-K89 .c-sharp-c-logo-02f17714ba-seeklogo-2-mkq {
+  margin-left: 1rem;
+  width: 12.3rem;
+  height: 10.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw {
+  box-sizing: border-box;
+  padding-right: 3.4514rem;
+  width: 100%;
+  height: 36.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-ksmb-cmT {
+  margin-right: 7.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-ksmb-cmT .auto-group-rnm3-NVj {
+  margin-bottom: 10rem;
+  width: 10.8rem;
+  height: 14.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-ksmb-cmT .auto-group-rnm3-NVj .kotlin-removebg-preview-2-7CR {
+  width: 10.6rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-ksmb-cmT .auto-group-rnm3-NVj .kotlin-FJd {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 5.3rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.265;
+  color: #1f1d1d;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-ksmb-cmT .png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-removebg-preview-2-MMf {
+  margin-left: 1.9rem;
+  width: 11rem;
+  height: 12rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw .c-sharp-c-logo-02f17714ba-seeklogo-2-S8D {
+  margin-top: 3.7rem;
+  width: 11rem;
+  height: 8.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-pxp3-Zid {
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-pxp3-Zid .js-javascript-round-logo-icon-png-11662226392lsrrajcm0y-removebg-preview-2-Kxh {
+  margin: 0rem 0.084rem 5.7rem 0rem;
+  width: 16.6rem;
+  height: 16.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant3-VRw .auto-group-pxp3-Zid .html5logoandwordmark-2-2cD {
+  width: 15.0836rem;
+  height: 14.3268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB {
+  width: 100%;
+  height: 36.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-bxdt-HY9 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-bxdt-HY9 .auto-group-ehwj-SA9 {
+  margin-bottom: 7.6rem;
+  width: 10.8rem;
+  height: 14.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-bxdt-HY9 .auto-group-ehwj-SA9 .kotlin-removebg-preview-2-NpV {
+  width: 10.6rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-bxdt-HY9 .auto-group-ehwj-SA9 .kotlin-KDw {
+  width: 10rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 5.3rem;
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.265;
+  color: #1f1d1d;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-bxdt-HY9 .c-sharp-c-logo-02f17714ba-seeklogo-2-pgV {
+  width: 14.5rem;
+  height: 14.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-c8gm-xGu {
+  box-sizing: border-box;
+  padding: 0.6rem 1.635rem 0rem 5.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-c8gm-xGu .png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-removebg-preview-2-V1w {
+  margin: 2.4rem 0.9rem 0rem 0rem;
+  width: 11rem;
+  height: 12rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-c8gm-xGu .auto-group-1qo3-MZw {
+  height: 36.1268rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-c8gm-xGu .auto-group-1qo3-MZw .js-javascript-round-logo-icon-png-11662226392lsrrajcm0y-removebg-preview-2-WBw {
+  margin-bottom: 7.7rem;
+  width: 17.6rem;
+  height: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant4-wjB .auto-group-c8gm-xGu .auto-group-1qo3-MZw .html5logoandwordmark-2-Dc9 {
+  margin-left: 0.0836rem;
+  width: 15.0836rem;
+  height: 14.3268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy {
+  width: 100%;
+  height: 36.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-xgvh-gVj {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-xgvh-gVj .png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-removebg-preview-2-SUu {
+  margin-bottom: 6.5rem;
+  width: 15rem;
+  height: 15.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-xgvh-gVj .c-sharp-c-logo-02f17714ba-seeklogo-2-86q {
+  width: 14.5rem;
+  height: 14.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-buyf-r2q {
+  box-sizing: border-box;
+  padding: 0.6rem 1.635rem 0rem 5.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-buyf-r2q .auto-group-rd4q-yt9 {
+  margin: 10.4rem 1.1rem 11rem 0rem;
+  box-sizing: border-box;
+  padding: 6.5rem 0rem 4.6rem 0.6rem;
+  height: calc(100% - 21.4rem);
+  font-size: 2.7rem;
+  font-weight: 700;
+  line-height: 1.265;
+  color: #1f1d1d;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/kotlin-removebg-preview-2-bg.png');
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-buyf-r2q .auto-group-zakm-1K3 {
+  height: 36.1268rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-buyf-r2q .auto-group-zakm-1K3 .js-javascript-round-logo-icon-png-11662226392lsrrajcm0y-removebg-preview-2-MNu {
+  margin-bottom: 7.7rem;
+  width: 17.6rem;
+  height: 14.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-Lnh .property-1variant5-LAy .auto-group-buyf-r2q .auto-group-zakm-1K3 .html5logoandwordmark-2-eN1 {
+  margin-left: 0.0836rem;
+  width: 15.0836rem;
+  height: 14.3268rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

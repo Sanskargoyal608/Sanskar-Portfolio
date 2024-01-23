@@ -1,0 +1,510 @@
+
+html {
+	font-size:50.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%
+}.projects-xAy {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #000000 3.65%, #004674 44.79%, #5c0060 93.17%);
+}
+.projects-xAy .latest-projects-uQy {
+  margin: 0rem 0rem 1rem 3.2rem;
+  font-size: 7.7rem;
+  font-weight: 400;
+  line-height: 1.7850181961;
+  letter-spacing: 0.0385rem;
+  color: #6884e9;
+  font-family: Angkor, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu {
+  margin: 0rem 2rem 2rem 2.4rem;
+  width: calc(100% - 4.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m {
+  margin-bottom: 5rem;
+  width: 100%;
+  height: 36.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 {
+  margin: 0rem 2.15rem 5rem 2.25rem;
+  width: calc(100% - 4.4rem);
+  height: auto;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 0rem 2.5rem 5rem 2.4rem;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 0 2rem 0.4rem rgba(0, 0, 0, 0.37);
+  background-color: #fff;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-jjux-21j {
+  position: relative;
+  margin: 1rem;
+  width: calc(100% - 43rem); /* Adjusted width to 100% minus the margin of the image */
+  box-sizing: border-box;
+  padding: 0rem 2.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-jjux-21j .rectangle-26-wuP {
+  margin: 1.7rem 5.15rem 0rem 0rem;
+  width: 34.7rem;
+  height: 22.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-jjux-21j .auto-group-8txx-4z1 {
+  width: 100%;
+  height: 10.6rem;
+  position: relative;
+  flex-shrink: 0; 
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-jjux-21j .auto-group-8txx-4z1 .presenting-my-innovative-ar-vr-project-crafted-with-unity-the-ar-business-card-when-you-scan-the-business-card-a-virtual-world-unfolds-showcasing-intricate-details-and-interactivity-experience-a-cutting-edge-fusion-of-technology-and-networking-as-you-explore-a-dynamic-digital-representation-of-my-identity-contact-me-for-a-deeper-dive-into-this-immersive-experience-R3s {
+  position: relative;
+  width: 100%;
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7866405487;
+  letter-spacing: 0.01rem;
+  color: #181717;
+  font-family: 'Open Sans', 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-jjux-21j .auto-group-8txx-4z1 .business-card-xxu {
+  width: 44.8rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.7rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.517rem;
+  text-decoration-line: underline;
+  color: #6884e9;
+  font-family: Angkor, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-zdv7-4m3 {
+  margin-left: 1.35rem;
+  width: calc(100% - 1.35rem);
+  height: 9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-zdv7-4m3 .auto-group-tzdf-Q4D {
+  margin-right: 61.3rem;
+  width: 33.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-zdv7-4m3 .auto-group-tzdf-Q4D .java-python-with-django-docker-YAR {
+  width: 31.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 5.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7866405487;
+  letter-spacing: 0.01rem;
+  color: #181717;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-zdv7-4m3 .auto-group-tzdf-Q4D .skills-used-cvy {
+  width: 24rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.33rem;
+  text-decoration-line: underline;
+  color: #6884e9;
+  font-family: Angkor, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .skindustries-hVF .auto-group-zdv7-4m3 .no-of-collaborators-88d {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.33rem;
+  text-decoration-line: underline;
+  color: #6884e9;
+  font-family: Angkor, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .uiux-projectlist-BG1 .ellipse-20-1TK {
+  width: 10rem;
+  height: 10rem;
+  background-color: #d9d9d9;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .auto-group-hr53-w6m .ellipse-21-kA1 {
+  width: 5.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 99rem;
+  top: 29.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K {
+  width: calc(100% - 4.4rem);
+  height: auto;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin-bottom: 3rem;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B {
+  margin-bottom: 5.9rem;
+  box-sizing: border-box;
+  padding: 0rem 0.9rem 8rem 2.15rem;
+  width: 100%;
+  height: auto;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2rem 0.4rem rgba(0, 0, 0, 0.3700000048);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-dag5-9xq {
+  margin: 0rem 1.6rem 1.4rem 0rem;
+  width: calc(100% - 1.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-dag5-9xq .rectangle-26-tfX {
+  margin: 1.7rem 5.15rem 0rem 0rem;
+  width: 34.7rem;
+  height: 22.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  position: relative;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-dag5-9xq .auto-group-ai2h-crR {
+  width: 75%;
+  height: auto;
+  position: relative;
+  flex-shrink: 0;
+  margin-right: 20rem;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-dag5-9xq .auto-group-ai2h-crR .smallIntro {
+  position: relative;
+  width: 100%;
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7866405487;
+  letter-spacing: 0.01rem;
+  color: #181717;
+  font-family: 'Open Sans', 'Source Sans Pro';
+  flex-shrink: 0;
+}.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-dag5-9xq .auto-group-ai2h-crR.auto-group-vubx-7PT {
+  width: 100%;
+  height: 10.6rem;
+  position: relative;
+  flex-shrink: 0; 
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-dag5-9xq .auto-group-ai2h-crR .auto-group-vubx-7PT .business-card-vEq {
+  width: 46.3rem;
+  height: 8.5rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  font-size: 4.7rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.517rem;
+  text-decoration-line: underline;
+  color: #6884e9;
+  font-family: Angkor, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-teh3-RxH {
+  margin-left: 1.35rem;
+  width: calc(100% - 1.35rem);
+  height: 9rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-teh3-RxH .auto-group-cbsb-yD7 {
+  margin-right: 11rem;
+  width: 33.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-teh3-RxH .auto-group-cbsb-yD7 .java-python-with-django-docker-KGy {
+  width: 31.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.9rem;
+  top: 5.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7866405487;
+  letter-spacing: 0.01rem;
+  color: #181717;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-teh3-RxH .auto-group-cbsb-yD7 .skills-used-oT3 {
+  width: 24rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.33rem;
+  text-decoration-line: underline;
+  color: #6884e9;
+  font-family: Angkor, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K .skindustries-E5B .auto-group-teh3-RxH .no-of-collaborators-7Tj {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.33rem;
+  text-decoration-line: underline;
+  color: #6884e9;
+  font-family: Angkor, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .projectscroll-1iu .uiux-projectlist-t1K  .skindustries-E5B .auto-group-teh3-RxH .ellipse-20-QBw {
+  margin-right: 5rem;
+  position: relative;
+  width: 10rem;
+  height: 10rem;
+  background-color: #d9d9d9;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+/* Header */
+.projects-xAy .portfolio-header-Q5j {
+  width: 100%;
+  height: 4.6rem;
+  position: relative;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: space-between;
+
+}
+.projects-xAy .portfolio-header-Q5j .rectangle-1-Lk5 {
+  width: 100%;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #a296ba;
+}
+
+.projects-xAy  .portfolio-header-Q5j .Header-Title-logo {
+  width: auto;
+  height: 5rem;
+  flex-shrink: 0;
+}
+.projects-xAy .portfolio-header-Q5j .Header-Title-logo  .ellipse-6-tFo {
+  width: 11rem;
+  height: 3.5rem;
+  position: absolute;
+  top: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  
+}
+
+.projects-xAy .portfolio-header-Q5j .Header-Title-logo  .sanskar-goyal-BeD {
+  width: auto;
+  height: 3.3rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 0.6rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.265;
+  color: #ffffff;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.projects-xAy .portfolio-header-Q5j .frame-2-5zV {
+  width: auto;
+  height: 3.1rem;
+  position: relative;
+  top: 0.5rem;
+  display: flex;
+  column-gap: 3.4rem;
+  align-items: center;
+  margin-right: 5rem;
+}
+.projects-xAy    .portfolio-header-Q5j .frame-2-5zV .skills-pah {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3849052494;
+  color: #ffffff;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .portfolio-header-Q5j .frame-2-5zV .project-Z2V {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3849052494;
+  color: #ffffff;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .portfolio-header-Q5j .frame-2-5zV .certificates-HjB {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3849052494;
+  color: #ffffff;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .portfolio-header-Q5j .frame-2-5zV .contact-qEu {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3849052494;
+  color: #ffffff;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .portfolio-header-Q5j .frame-2-5zV .group-1-1rD  {
+  width: 24.9264rem;
+  height: 3rem;
+  top: 0.45rem;
+  display: block;
+  background-color: #8df94c;
+}
+
+.projects-xAy .portfolio-header-Q5j .frame-2-5zV  .group-1-1rD .schedule-a-meeting-tf7 {
+  width: 21.1rem;
+  height: 2.5rem;
+  position: relative;
+  left: 0.5982rem;
+  
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.265;
+  color: #000000;
+  font-family: Overpass Mono, 'Source Sans Pro';
+  white-space: nowrap;
+}
+/* Footer */
+.projects-xAy .footer-uQR {
+  box-sizing: border-box;
+  padding: 3.023rem 1.653rem 1.435rem 3.769rem;
+  width: 100%;
+  height: 11.267rem;
+  display: flex;
+  align-items: center;
+  background-color: #010406;
+  flex-shrink: 0;
+  justify-content: space-between
+}
+.projects-xAy .footer-uQR .socialIcons {
+  box-sizing: border-box;
+  padding: 3.023rem 2.653rem 3.435rem 3.769rem;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.projects-xAy .footer-uQR .connect-now-Qry {
+  margin: 0.54rem 39.114rem 0rem 0rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.projects-xAy .footer-uQR .socialIcons .linkedin-XAu {
+  margin-right: 2.9753rem;
+  width: 7.7356rem;
+  height: 4.8091rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.projects-xAy .footer-uQR .socialIcons .instagram-fH7 {
+  margin: 0.206rem 4.066rem 0rem 0rem;
+  width: 6.5455rem;
+  height: 4.603rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.projects-xAy .footer-uQR .socialIcons .email-NhK {
+  margin-top: 0.2061rem;
+  width: 6.9422rem;
+  height: 4.603rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.linkdecoration{
+  text-decoration: none;
+}
+

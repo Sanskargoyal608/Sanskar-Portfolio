@@ -1,0 +1,120 @@
+{%load static%}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>UI/UX Designs</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Overpass+Mono%3A700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Angkor%3A400"/>
+  <link rel="stylesheet" href="{% static './styles/ui-ux-designs.css'%}"/>
+</head>
+<body>
+<div class="ui-ux-designs-KZF">
+  <div class="portfolio-header-Q5j">
+    <div class="rectangle-1-Lk5"></div>
+      <div class = "Header-Title-logo">  
+        <img class="ellipse-6-tFo" src="{% static './assets/ReadyPlayerMe-Avatar (1).png'%}"/>
+        <a class="linkdecoration" href="{% url 'dashboard' %}">
+        <p class="sanskar-goyal-BeD">Sanskar Goyal</p>
+      </a>
+      </div>
+    
+    
+    <div class="frame-2-5zV">
+      <a class="linkdecoration" href="{% url 'skills' %}">
+        <p class="skills-pah">Skills</p>
+      </a>
+      <a class="linkdecoration" href="{% url 'projects' %}">
+        <p class="project-Z2V">Project</p>
+      </a>
+      <a class="linkdecoration" href="{% url 'certificate' %}">
+        <p class="certificates-HjB">Certificates</p>
+      </a>
+      <a class="linkdecoration" href="{% url 'ContactUs' %}">
+      <p class="contact-qEu">Contact</p>
+      </a>
+      <button class="group-1-1rD">  
+        <a class="linkdecoration" href="https://calendly.com/gwholsat/sanskar">
+        <p class="schedule-a-meeting-tf7">Schedule A Meeting</p>
+      </a>
+      </button>
+    </div>
+  </div>
+  <div class="auto-group-mga9-7Yy">
+    <div class="auto-group-ucfp-eJ1">
+      <div class="auto-group-zwot-B33">
+        <img class="ellipse-1-JNZ" src="{% static './assets/ellipse-1-EwX.png'%}"/>
+        <img class="e22b9f7-f886-424c-a02a-ead74650774b-1-23f" src="{% static './assets/e22b9f7-f886-424c-a02a-ead74650774b-1-1c9.png'%}"/>
+      </div>
+      <div class="auto-group-o7t3-wAd">
+        <p class="ui-ux-tbf">UI/UX</p>
+        <p class="i-have-a-genuine-passion-for-creating-ui-ux-designs-as-they-require-thoughtful-consideration-from-the-perspective-of-the-users-to-achieve-visually-appealing-interfaces-and-ensure-a-seamless-user-experience-within-just-three-clicks-every-time-i-create-a-ui-i-prioritize-understanding-how-others-will-perceive-each-component-on-my-ui-ux-projects-page-you-will-find-a-showcase-of-my-work-where-i-have-applied-this-user-centric-approach-to-deliver-outstanding-results-in-various-projects-PYR">I have a genuine passion for creating UI/UX designs, as they require thoughtful consideration from the perspective of the users to achieve visually appealing interfaces and ensure a seamless user experience within just three clicks. Every time I create a UI, I prioritize understanding how others will perceive each component. On my UI/UX projects page, you will find a showcase of my work, where I have applied this user-centric approach to deliver outstanding results in various projects.</p>
+      </div>
+    </div>
+    <div class="auto-group-rbd7-t7o">
+      <div class="uiux-projectstools-RtR">
+        <div class="toolsplatformframe-xNZ">
+          <div class="toolsplatformlist-JxD">
+            <p class="tools-platform-sEd">Tools &amp; Platform</p>
+            <div class="auto-group-ybmf-AzR">
+              <img class="ellipse-12-GXf" src="{% static './assets/figma.png'%}"/>
+              <img class="ellipse-13-zTf" src="{% static './assets/5968753.png'%}"/>
+              <img class="ellipse-14-XyP" src="{% static './assets/jetpack compose icon_RGB.png'%}"/>
+              <img class="ellipse-15-tJ9" src="{% static './assets/pngimg.com - wordpress_PNG28.png'%}"/>
+              <img class="ellipse-16-Cpd" src="{% static './assets/pngegg (1).png'%}"/>
+              <img class="ellipse-17-Z9P" src="{% static './assets/pngegg.png'%}"/>
+              <img class="ellipse-18-Voj" src="{% static './assets/html5logoandwordmark-2-KL9.png'%}"/>
+            </div>
+          </div>
+        </div>
+        <div class="auto-group-8wzy-SDB">
+          <div class="uiux-projectlist-kjf">
+            <div class="frame-3-51F">
+              {% for item in upload_data %}
+              <div class="skindustries-R57">
+                <a class="rectangle-26-KwB" href="{{item.image.url}}"  target="_blank">
+                <img class="rectangle-26-KwB" src="{{item.image.url}}"/>
+                </a>
+                <div class="auto-group-7xc5-EYM">
+                  <div class="auto-group-vubx-7PT">
+                    <a class="sk-industries-YhT" href="{% url 'project' blog_id=item.id %}">
+                      <p class="sk-industries-YhT">{{ item.tittle }}</p>
+                    </a>
+                  </div>
+                  <p class="discover-sk-industries-top-notch-welding-fabrication-and-sheet-metal-work-through-our-user-friendly-wordpress-ui-ux-design-experience-their-cutting-edge-fiber-laser-cutting-and-cnc-bending-technology-for-a-one-stop-shop-solution-explore-their-precision-workshop-for-seamless-metal-component-manufacturing-n45">{{ item.intro }}</p>
+                  
+                </div>
+              </div>
+              {% endfor %}
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-uQR">
+    <p class="connect-now-Qry">Connect Now</p>
+    <div class = "socialIcons">
+     <a href="https://www.linkedin.com/in/sanskargoyal608/" target="_blank">
+       <img class="linkedin-XAu" src="{% static './assets/linkedin-oyF.png'%}"/>
+     </a>
+     <a href="https://www.instagram.com/sanskargoyal608/" target="_blank">
+    <img class="instagram-fH7" src="{% static './assets/instagram-7GR.png'%}"/>
+     </a>
+     <a href="sanskargoyal608@gmail.com/" target="_blank">
+        <img class="email-NhK" src="{% static './assets/email-WFo.png'%}"/>
+     </a>
+     <a href="https://github.com/Sanskargoyal608/" target="_blank">
+      <img class="instagram-fH7" src="{% static './assets/github.png'%}"/>
+   </a>
+    </div>
+  </div>
+</div>
+</body>

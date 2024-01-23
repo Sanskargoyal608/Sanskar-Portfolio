@@ -1,0 +1,628 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39.1rem;
+}.animatedtext-Arh {
+  box-sizing: border-box;
+  padding: 2rem 3.6rem 20.6rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.animatedtext-Arh .property-1default-1cR {
+  width: 2.5rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-1cR .component-1-9Tj {
+  margin-right: 0.1352rem;
+  width: 2.3648rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-1cR .component-1-9Tj .mask-group-Uku {
+  width: 2.0192rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-CS1 {
+  width: 4.9rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-CS1 .component-1-kCd {
+  margin-right: 0.313rem;
+  width: 4.587rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-CS1 .component-1-kCd .mask-group-JE9 {
+  width: 3.9577rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-pyB {
+  width: 7.2rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-pyB .component-1-mNd {
+  margin-right: 0.4833rem;
+  width: 6.7167rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-pyB .component-1-mNd .mask-group-7Bb {
+  width: 5.8154rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-35F {
+  width: 10.1rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-35F .component-1-Bx9 {
+  margin-right: 0.6981rem;
+  width: 9.4019rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-35F .component-1-Bx9 .mask-group-wRX {
+  width: 8.1577rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-fMX {
+  width: 12.8rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-fMX .component-1-Qa1 {
+  margin-right: 0.8981rem;
+  width: 11.9019rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-fMX .component-1-Qa1 .mask-group-MVF {
+  width: 10.3385rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-gGd {
+  width: 10.1rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-gGd .component-1-dSm {
+  margin-right: 0.6981rem;
+  width: 9.4019rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-gGd .component-1-dSm .mask-group-aN1 {
+  width: 8.1577rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-ufB {
+  width: 7.2rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-ufB .component-1-f8Z {
+  margin-right: 0.4833rem;
+  width: 6.7167rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-ufB .component-1-f8Z .mask-group-pGM {
+  width: 5.8154rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-MGH {
+  width: 4.7rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-MGH .component-1-u2u {
+  margin-right: 0.2981rem;
+  width: 4.4019rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-MGH .component-1-u2u .mask-group-Ybf {
+  width: 3.7962rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-gC5 {
+  width: 2.5rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-gC5 .component-1-Dho {
+  margin-right: 0.1352rem;
+  width: 2.3648rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-gC5 .component-1-Dho .mask-group-a2Z {
+  width: 2.0192rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-VQR {
+  width: 2.5rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-VQR .component-1-Cy3 {
+  margin-right: 2.3574rem;
+  width: 0.1426rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-VQR .component-1-Cy3 .mask-group-8bo {
+  width: 0.0808rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1android-ui-ux-fLq {
+  width: 2.5rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1android-ui-ux-fLq .component-1-D7T {
+  margin-right: 0.1352rem;
+  width: 2.3648rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1android-ui-ux-fLq .component-1-D7T .mask-group-AYV {
+  width: 2.0192rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1default-tjP {
+  width: 5.1rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1default-tjP .component-1-quX {
+  margin-right: 0.3278rem;
+  width: 4.7722rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1default-tjP .component-1-quX .mask-group-CVB {
+  width: 4.1192rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant13-jED {
+  width: 7.4rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant13-jED .component-1-srD {
+  margin-right: 0.4981rem;
+  width: 6.9019rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant13-jED .component-1-srD .mask-group-daV {
+  width: 5.9769rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant14-mAu {
+  width: 9.9rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant14-mAu .component-1-vJh {
+  margin-right: 0.6833rem;
+  width: 9.2167rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant14-mAu .component-1-vJh .mask-group-5SV {
+  width: 7.9962rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant15-cBX {
+  width: 12.6rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant15-cBX .component-1-Meu {
+  margin-right: 0.8833rem;
+  width: 11.7167rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant15-cBX .component-1-Meu .mask-group-Ja9 {
+  width: 10.1769rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant16-31w {
+  width: 15.1rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant16-31w .component-1-Btq {
+  margin-right: 1.0685rem;
+  width: 14.0315rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant16-31w .component-1-Btq .mask-group-YUV {
+  width: 12.1962rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant17-smf {
+  width: 17.6rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant17-smf .component-1-cz9 {
+  margin-right: 1.2537rem;
+  width: 16.3463rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant17-smf .component-1-cz9 .mask-group-yZo {
+  width: 14.2154rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant18-HaV {
+  width: 25.3rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant18-HaV .component-1-qM7 {
+  margin-right: 1.8241rem;
+  width: 23.4759rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant18-HaV .component-1-qM7 .mask-group-APP {
+  width: 20.4346rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant19-3i5 {
+  width: 27.9rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant19-3i5 .component-1-nff {
+  margin-right: 2.0167rem;
+  width: 25.8833rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant19-3i5 .component-1-nff .mask-group-Y93 {
+  width: 22.5346rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant20-Gqj {
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant20-Gqj .component-1-dgH {
+  margin-right: 2.4315rem;
+  width: 31.0685rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant20-Gqj .component-1-dgH .mask-group-n3P {
+  width: 27.0577rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant21-iBw {
+  width: 27.9rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant21-iBw .component-1-f7B {
+  margin-right: 2.0167rem;
+  width: 25.8833rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant21-iBw .component-1-f7B .mask-group-1gq {
+  width: 22.5346rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant22-Ygm {
+  width: 19.1rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant22-Ygm .component-1-Vru {
+  margin-right: 1.3648rem;
+  width: 17.7352rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant22-Ygm .component-1-Vru .mask-group-rBf {
+  width: 15.4269rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant23-atM {
+  width: 17.7rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant23-atM .component-1-vxD {
+  margin-right: 1.2611rem;
+  width: 16.4389rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant23-atM .component-1-vxD .mask-group-HXs {
+  width: 14.2962rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant24-1yf {
+  width: 14.9rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant24-1yf .component-1-ArZ {
+  margin-right: 1.0537rem;
+  width: 13.8463rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant24-1yf .component-1-ArZ .mask-group-XBK {
+  width: 12.0346rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant25-rDb {
+  width: 12.9rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant25-rDb .component-1-bws {
+  margin-right: 0.9056rem;
+  width: 11.9944rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant25-rDb .component-1-bws .mask-group-Mg9 {
+  width: 10.4192rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant26-HZo {
+  width: 9.8rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant26-HZo .component-1-e9T {
+  margin-right: 0.6759rem;
+  width: 9.1241rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant26-HZo .component-1-e9T .mask-group-Bv5 {
+  width: 7.9154rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant27-84d {
+  width: 7.3rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant27-84d .component-1-fqF {
+  margin-right: 0.4907rem;
+  width: 6.8093rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant27-84d .component-1-fqF .mask-group-dGH {
+  width: 5.8962rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant28-mNV {
+  width: 5.3rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant28-mNV .component-1-Way {
+  margin-right: 0.3426rem;
+  width: 4.9574rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant28-mNV .component-1-Way .mask-group-sAd {
+  width: 4.2808rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant29-QAZ {
+  width: 2.6rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant29-QAZ .component-1-9tq {
+  margin-right: 0.1426rem;
+  width: 2.4574rem;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+  box-sizing: border-box;
+}
+.animatedtext-Arh .property-1variant29-QAZ .component-1-9tq .mask-group-JWq {
+  width: 2.1rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.animatedtext-Arh .property-1variant30-qWm {
+  width: 0.1rem;
+  height: 4.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.animatedtext-Arh .property-1variant30-qWm .component-1-az9 {
+  box-sizing: border-box;
+  padding-top: 0rem;
+  width: 100%;
+  height: 100%;
+  border-right: solid 0.05rem #97a1f7;
+}
+.animatedtext-Arh .property-1variant30-qWm .component-1-az9 .mask-group-k7w {
+  width: 0.0808rem;
+  height: 4.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}

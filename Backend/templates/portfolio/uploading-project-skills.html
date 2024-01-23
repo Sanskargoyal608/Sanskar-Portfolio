@@ -1,0 +1,96 @@
+{%load static%}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Uploading project skills</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Angkor%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Overpass+Mono%3A700"/>
+  <link rel="stylesheet" href="{% static './styles/uploading-project-skills.css'%}"/>
+</head>
+<body>
+<div class="uploading-project-skills-QsP">
+  <div class="portfolio-header-Q5j">
+    <div class="rectangle-1-Lk5"></div>
+      <div class = "Header-Title-logo">  
+        <img class="ellipse-6-tFo" src="{% static './assets/ReadyPlayerMe-Avatar (1).png'%}"/>
+        <a class="linkdecoration" href="{% url 'dashboard' %}">
+        <p class="sanskar-goyal-BeD">Sanskar Goyal</p>
+      </a>
+      </div>
+    
+    
+    <div class="frame-2-5zV">
+      <a class="linkdecoration" href="{% url 'skills' %}">
+        <p class="skills-pah">Skills</p>
+      </a>
+      <a class="linkdecoration" href="{% url 'projects' %}">
+        <p class="project-Z2V">Project</p>
+      </a>
+      <a class="linkdecoration" href="{% url 'certificate' %}">
+        <p class="certificates-HjB">Certificates</p>
+      </a>
+      <a class="linkdecoration" href="{% url 'ContactUs' %}">
+      <p class="contact-qEu">Contact</p>
+      </a>
+      <button class="group-1-1rD">  
+        <a class="linkdecoration" href="https://calendly.com/gwholsat/sanskar">
+        <p class="schedule-a-meeting-tf7">Schedule A Meeting</p>
+      </a>
+      </button>
+    </div>
+  </div>
+  <p class="upload-now-2hj">Upload Now</p>
+  <form action="{% url 'UploadNow' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+
+  <div class="auto-group-yqcy-91f">
+    <div class="auto-group-ckhf-2LM">
+      <!-- <input class="topic-yWV" placeholder="Topic"/> -->
+        {{form.tittle}}
+      <!-- <input class="uploadimg-LVT" placeholder="Upload Image"/> -->
+      {{form.image}}
+    </div>
+    <div class="auto-group-9s6y-j1o">
+      <!-- <input class="select-topic-gBw" placeholder="Select Topic"/> -->
+      {{form.topic}}
+      <!-- <input class="skills-TM7" placeholder="Skills Used/ Skill Level"/> -->
+      {{form.skills}}
+    </div>
+    <!-- <input class="small-intro-ewP" placeholder="Small Introduction"/> -->
+    {{form.intro}}
+    <!-- <input class="big-intro-4kD" placeholder="Big Introduction"/> -->
+    {{form.content}}
+    <div class="auto-group-rxld-fV7">
+      <!-- <input class="collobrators-CV3" placeholder="Collaborators Mail"/> -->
+      {{form.collab_Mail}}
+      <!-- <input class="certified-by-nTF" placeholder="Certified By"/> -->
+      {{form.certifiedBy}}
+    </div>
+    <button class="submit-button-xW9" type="submit">Submit Now</button>
+  </div>
+  </form>
+  <div class="footer-uQR">
+    <p class="connect-now-Qry">Connect Now</p>
+    <div class = "socialIcons">
+     <a href="https://www.linkedin.com/in/sanskargoyal608/" target="_blank">
+       <img class="linkedin-XAu" src="{% static './assets/linkedin-oyF.png'%}"/>
+     </a>
+     <a href="https://www.instagram.com/sanskargoyal608/" target="_blank">
+    <img class="instagram-fH7" src="{% static './assets/instagram-7GR.png'%}"/>
+     </a>
+     <a href="sanskargoyal608@gmail.com/" target="_blank">
+        <img class="email-NhK" src="{% static './assets/email-WFo.png'%}"/>
+     </a>
+     <a href="https://github.com/Sanskargoyal608/" target="_blank">
+      <img class="instagram-fH7" src="{% static './assets/github.png'%}"/>
+   </a>
+    </div>
+  </div>
+</div>
+</body>
