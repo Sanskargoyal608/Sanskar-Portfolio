@@ -11,9 +11,9 @@ COPY . /code/
 EXPOSE 8000
 
 
-RUN python manage.py makemigrations 
+RUN python Backend/manage.py makemigrations 
 
-RUN python manage.py migrate 
-RUN python manage.py collectstatic --noinput 
+RUN python Backend/manage.py migrate 
+RUN python Backend/manage.py collectstatic --noinput 
 
-CMD python manage.py runserver 0.0.0.0:8000
+CMD python Backend/manage.py runserver 0.0.0.0:8000
