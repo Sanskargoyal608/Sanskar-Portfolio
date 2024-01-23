@@ -121,8 +121,10 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
 STATICFILES_DIRS = [
-    "D:/Portfolio/Backend/Portfolio/myStatic"
+   BASE_DIR / 'Portfolio/myStatic',
+
 ]
 
 MEDIA_URL = 'media/'
