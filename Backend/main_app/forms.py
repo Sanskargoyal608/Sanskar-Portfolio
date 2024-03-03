@@ -10,10 +10,10 @@ class UploadFormDoc(forms.ModelForm):
             'placeholder': 'Topic'
         })
     )
-    image = forms.FileField(
-        widget=forms.FileInput(attrs={
+    image = forms.URLField(
+        widget=forms.URLInput(attrs={
             'class': 'uploadimg-LVT',
-            'placeholder': 'Upload Image'
+            'placeholder': 'Image URL'
         })
     )
     topic = forms.ChoiceField(

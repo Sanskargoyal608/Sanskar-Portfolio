@@ -17,7 +17,7 @@ topic_choice = (
 class Upload_Form(models.Model):
     tittle = models.CharField(max_length=200,)
     topic =  models.CharField(max_length=100, choices= topic_choice)
-    image = models.ImageField(upload_to='blog_images/')
+    image = models.URLField()
     intro = models.TextField()
     content = models.TextField()
     skills = models.TextField()
