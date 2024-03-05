@@ -1,6 +1,7 @@
 # forms.py
 from django import forms
 from .models import Upload_Form, topic_choice, ContactUs_Form
+from ckeditor.widgets import CKEditorWidget
 
 
 class UploadFormDoc(forms.ModelForm):
@@ -36,9 +37,9 @@ class UploadFormDoc(forms.ModelForm):
         })
     )
     content = forms.CharField(
-        widget=forms.TextInput(attrs={
+        widget=CKEditorWidget(attrs={
             'class': 'big-intro-4kD',
-            'placeholder': 'Big Introduction'
+            'placeholder': '    Big Introduction'
         })
     )
     collab_Mail = forms.CharField(

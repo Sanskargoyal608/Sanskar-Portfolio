@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A400"/>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Overpass+Mono%3A700"/>
   <link rel="stylesheet" href="{% static './styles/uploading-project-skills.css'%}"/>
+  <link rel="stylesheet" href="{% static 'ckeditor/ckeditor.css' %}">
 </head>
 <body>
 <div class="uploading-project-skills-QsP">
@@ -65,7 +66,7 @@
     <!-- <input class="small-intro-ewP" placeholder="Small Introduction"/> -->
     {{form.intro}}
     <!-- <input class="big-intro-4kD" placeholder="Big Introduction"/> -->
-    {{form.content}}
+    {{form.content }}
     <div class="auto-group-rxld-fV7">
       <!-- <input class="collobrators-CV3" placeholder="Collaborators Mail"/> -->
       {{form.collab_Mail}}
@@ -93,4 +94,7 @@
     </div>
   </div>
 </div>
+<script src="{% static 'ckeditor/ckeditor-init.js' %}"></script>
+<script src="{% static 'ckeditor/ckeditor/ckeditor.js' %}"></script>
+
 </body>

@@ -1,5 +1,6 @@
 # portfolio/models.py
 from django.db import models
+from ckeditor.fields import RichTextField
 
 
 topic_choice = (
@@ -19,7 +20,7 @@ class Upload_Form(models.Model):
     topic =  models.CharField(max_length=100, choices= topic_choice)
     image = models.URLField()
     intro = models.TextField()
-    content = models.TextField()
+    content = RichTextField()
     skills = models.TextField()
     collab_Mail = models.TextField()
     certifiedBy = models.TextField()
